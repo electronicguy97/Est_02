@@ -1,0 +1,12 @@
+# TODO LIST
+
+6. test부분 구현
+13. config 정보 저장 - 2
+16. result에 저장
+
+
+
+* 
+99. 60개 -> 60개
+
+1. 1일, 7일, dynamic

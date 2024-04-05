@@ -5,6 +5,12 @@
 - [JAESEOK LEE](https://github.com/appleman153)
 - [MOONSUN JUNG](https://github.com/JUNGMOONSUN/)
 
+
+### USE MODEL
+- Sarima
+- PatchTST (Timeseries Transformer)
+- NN
+
 ### 실험보고서
 |실험내용|실험보고서|발표자료|
 |------|---|---|

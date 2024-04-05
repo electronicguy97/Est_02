@@ -8,7 +8,7 @@
 
 ### USE MODEL
 - Sarima
-- PatchTST (Timeseries Transformer)
+- PatchTST
 - NN
 
 ### 실험보고서
